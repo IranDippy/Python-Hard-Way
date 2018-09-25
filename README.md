@@ -1,5 +1,5 @@
 # Learn Python the Hard Way Book
-This is a summary of this [book](https://learnpythonthehardway.org/book/) designed by us.
+This is a summary of [this book](https://learnpythonthehardway.org/book/) designed by us.
 
 #### Exercise 1: A Good First Program
 * Just the usage of `print` function. For example: `print "This is fun."`

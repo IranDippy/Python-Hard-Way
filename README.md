@@ -6,7 +6,7 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 * Just the usage of `print` function. For example: `print "This is fun."`
 
 #### Exercise 2: Comments And Pound Characters
-* Comment sentences by putting `#` character. For example: `This is not a comment." # but this is a comment`
+* Comment sentences by putting `#` character. For example: `print "This is not a comment." # but this is a comment`
 #### Exercise 3: Numbers And Math
 #### Exercise 4: Variables And Names
 #### Exercise 5: More Variables And Printing

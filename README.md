@@ -26,34 +26,32 @@ This is a summary of this book designed by us.
 #### Exercise 21: Functions Can Return Something
 #### Exercise 22: What Do You Know So Far?
 #### Exercise 23: Read Some Code
-Exercise 24: More Practice
-Exercise 25: Even More Practice
-Exercise 26: Congratulations, Take A Test!
-Exercise 27: Memorizing Logic
-Exercise 28: Boolean Practice
-Exercise 29: What If
-Exercise 30: Else And If
-Exercise 31: Making Decisions
-Exercise 32: Loops And Lists
-Exercise 33: While Loops
-Exercise 34: Accessing Elements Of Lists
-Exercise 35: Branches and Functions
-Exercise 36: Designing and Debugging
-Exercise 37: Symbol Review
-Exercise 38: Doing Things To Lists
-Exercise 39: Dictionaries, Oh Lovely Dictionaries
-Exercise 40: Modules, Classes, And Objects
-Exercise 41: Learning To Speak Object Oriented
-Exercise 42: Is-A, Has-A, Objects, and Classes
-Exercise 43: Gothons From Planet Percal #25
-Exercise 44: Inheritance Vs. Composition
-Exercise 45: You Make A Game
-Exercise 46: A Project Skeleton
-Exercise 47: Automated Testing
-Exercise 48: Advanced User Input
-Exercise 49: Making Sentences
-Exercise 50: Your First Website
-Exercise 51: Getting Input From A Browser
-Exercise 52: The Start Of Your Web Game
-
-
+#### Exercise 24: More Practice
+#### Exercise 25: Even More Practice
+#### Exercise 26: Congratulations, Take A Test!
+#### Exercise 27: Memorizing Logic
+#### Exercise 28: Boolean Practice
+#### Exercise 29: What If
+#### Exercise 30: Else And If
+#### Exercise 31: Making Decisions
+#### Exercise 32: Loops And Lists
+#### Exercise 33: While Loops
+#### Exercise 34: Accessing Elements Of Lists
+#### Exercise 35: Branches and Functions
+#### Exercise 36: Designing and Debugging
+#### Exercise 37: Symbol Review
+#### Exercise 38: Doing Things To Lists
+#### Exercise 39: Dictionaries, Oh Lovely Dictionaries
+#### Exercise 40: Modules, Classes, And Objects
+#### Exercise 41: Learning To Speak Object Oriented
+#### Exercise 42: Is-A, Has-A, Objects, and Classes
+#### Exercise 43: Gothons From Planet Percal #25
+#### Exercise 44: Inheritance Vs. Composition
+#### Exercise 45: You Make A Game
+#### Exercise 46: A Project Skeleton
+#### Exercise 47: Automated Testing
+#### Exercise 48: Advanced User Input
+#### Exercise 49: Making Sentences
+#### Exercise 50: Your First Website
+#### Exercise 51: Getting Input From A Browser
+#### Exercise 52: The Start Of Your Web Game

@@ -1,4 +1,5 @@
 # Learn Python the Hard Way Book 
+
 This is a summary of [this book](https://learnpythonthehardway.org/book/) designed by us.
 
 #### Exercise 1: A Good First Program

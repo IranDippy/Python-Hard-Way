@@ -1,4 +1,6 @@
-# Learn Python the Hard Way Book
+# Learn Python the Hard Way Book 
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Cockatrice/Cockatrice.svg)
+
 This is a summary of [this book](https://learnpythonthehardway.org/book/) designed by us.
 
 #### Exercise 1: A Good First Program

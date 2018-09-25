@@ -7,7 +7,7 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 
 #### Exercise 2: Comments And Pound Characters
 * Comment sentences by putting `#` character. For example: `print "This is not a comment." # but this is a comment`
-* This is one of the Exceptions:  ` # -* -  coding: utf-8  -* - ` Because this line isn't a simple comment.
+* This is one of the Exceptions:  ` # -*-  coding: utf-8  -*-` Because this line will help you to use Unicode UTF- 8 without a problem.
 #### Exercise 3: Numbers And Math
 #### Exercise 4: Variables And Names
 #### Exercise 5: More Variables And Printing

@@ -2,7 +2,6 @@
 This is a summary of this book designed by us.
 
 #### Exercise 1: A Good First Program
-* Just the usage of `print` function.
-  example: `print "This is fun."`
+* Just the usage of `print` function. For example: `print "This is fun."`
 
 

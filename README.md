@@ -48,6 +48,43 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 #### Exercise 37: Symbol Review
 #### Exercise 38: Doing Things To Lists
 #### Exercise 39: Dictionaries, Oh Lovely Dictionaries
+##### This section introduces a new collection in python, Dictionary.
+> Dictionary exists in other languages but has different names --> ex. 'hashes'.
+>
+* Unlike lists, in dictionaries the key set has not to be numeral index, you can use other keys defined by yourself. <br />
+Example:<br />
+` stuff = {'name': 'Zed', 'age': 36, 'height': 6*12+2} `
+* if you want to remove a key-value set from a dictionary you shall do as following: <br />
+	`del stuff[name]` 
+* the other differnece between lists and dicts is in for loops: <br />
+	` for value in stuff.items() `<br />
+
+
+#### Exercise 40: Modules, Classes, And Objects
+> Python is an OOP language, just like java
+>
+* A module is a Python file with some functions or variables in it.<br />
+`# this goes in module.py`<br />
+`def apple():` <br />
+	`		print "I AM APPLES!" `<br />
+
+to use that module in another project: <br />
+` import module` <br />
+` module.apple()` <br />
+
+* A class is a way to take a grouping of functions and data and place
+them inside a container so you can access them with the '.' (dot) operator.
+###### Class syntax
+`class MyStuff(object):` <br />
+`def __init__(self):` <br />
+`self.tangerine = "And now a thousand years between"` <br />
+`def apple(self):` <br />
+`print "I AM CLASSY APPLES!"` <br />
+###### in order to instantiate
+`thing = MyStuff()` <br />
+`thing.apple()` <br />
+`print thing.tangerine` <br />
+
 #### Exercise 40: Modules, Classes, And Objects
 #### Exercise 41: Learning To Speak Object Oriented
 #### Exercise 42: Is-A, Has-A, Objects, and Classes

@@ -57,7 +57,7 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 #### Exercise 46: A Project Skeleton
 #### Exercise 47: Automated Testing
 #### Exercise 48: Advanced User Input
-#### Exercise 49: Making Sentences
+#### Exercise 49: Making Sentences 
 #### Exercise 50: Your First Website
 #### Exercise 51: Getting Input From A Browser
 #### Exercise 52: The Start Of Your Web Game

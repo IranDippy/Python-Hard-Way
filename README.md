@@ -84,9 +84,15 @@ them inside a container so you can access them with the '.' (dot) operator.
 `thing = MyStuff()` <br />
 `thing.apple()` <br />
 `print thing.tangerine` <br />
-
-#### Exercise 40: Modules, Classes, And Objects
 #### Exercise 41: Learning To Speak Object Oriented
+> OOP has its special talking rules
+>
+* remember uasage of is-a and has-a <br />
+is-a is a phrase to represent relationship between classes and objects <br />
+has-a is a phrase to represent relationship between objects and attributes <br />
+* composition: a car has wheels, car and wheel are separated classes but a class can contain another, this is called composition in python.
+> other concepts have been discussed in advanced programing course.
+>
 #### Exercise 42: Is-A, Has-A, Objects, and Classes
 #### Exercise 43: Gothons From Planet Percal #25
 #### Exercise 44: Inheritance Vs. Composition

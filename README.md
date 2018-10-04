@@ -3,18 +3,21 @@
 This is a summary of [this book](https://learnpythonthehardway.org/book/) designed by us.
 
 #### Exercise 1: A Good First Program
-* Just the usage of `print` function. For example: `print "This is fun."`
+* Just the usage of `print` function. 
+<br>For example: `print "This is fun."`
 
 #### Exercise 2: Comments And Pound Characters
-* Comment sentences by putting `#` character. For example: `print "This is not a comment." # but this is a comment`
+* Comment sentences by putting `#` character. 
+<br>For example: `print "This is not a comment." # but this is a comment`
 * This is one of the Exceptions:  ` # -*-  coding: utf-8  -*-` Because this line will help you to use Unicode UTF- 8 without a problem.
 
 #### Exercise 3: Numbers And Math
-* This exercise talk about order of operations and use the programming language as a calculator. For example `print "Wow", 25 + 30 / 6` will show like this: `Wow 30`
+* This exercise talk about order of operations and use the programming language as a calculator. 
+<br>For example `print "Wow", 25 + 30 / 6` will show like this: `Wow 30`
 
 #### Exercise 4: Variables And Names
 * Use this style for variable names: `character(s)_character(s)_character(s)`.
-<br>For example: `cars`, `space_in_a_car`, ... .
+<br>For example: `cars`, `space_in_a_car`.
 #### Exercise 5: More Variables And Printing
 #### Exercise 6: Strings And Text
 #### Exercise 7: More Printing

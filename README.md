@@ -24,9 +24,9 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 <br>For example: `print "%s,I get %d." % (my_name, my_age + my_height + my_weight)`
 
 #### Exercise 6: Strings And Text
-* We use **%s** for strings as the formatter.
-* **%r** can be used for all type of variables, this is raw.
-* You can concatenate strings with **+**.
+* We use `%s` for strings as the formatter.
+* `%r` can be used for all type of variables, this is raw.
+* You can concatenate strings with `+`.
 
 #### Exercise 7: More Printing
 

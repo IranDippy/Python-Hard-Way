@@ -48,8 +48,10 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 <br>For example: `age = raw_input("> ")`. And you can cast the input to integer like this: `age = int(raw_input("> "))`
 
 #### Exercise 12: Prompting People
+* You can ask the question as the **prompt** in the **raw_input** like this: `variable = raw_input(question_string)`
 
 #### Exercise 13: Parameters, Unpacking, Variables
+
 #### Exercise 14: Prompting And Passing
 #### Exercise 15: Reading Files
 #### Exercise 16: Reading And Writing Files

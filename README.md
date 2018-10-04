@@ -13,6 +13,8 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 * This exercise talk about order of operations and use the programming language as a calculator. For example `print "Wow", 25 + 30 / 6` will show like this: `Wow 30`
 
 #### Exercise 4: Variables And Names
+* Use this style for variable names: `character(s)_character(s)_character(s)`.
+<br>For example: `cars`, `space_in_a_car`, ... .
 #### Exercise 5: More Variables And Printing
 #### Exercise 6: Strings And Text
 #### Exercise 7: More Printing

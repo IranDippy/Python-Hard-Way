@@ -44,8 +44,11 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 * You should use `"\\"` for printing `\`.
 
 #### Exercise 11: Asking Questions
+* Use `raw_input(prompt)` when you want to get an input from the client in the runtime.
+<br>For example: `age = raw_input("> ")`. And you can cast the input to integer like this: `age = int(raw_input("> "))`
 
 #### Exercise 12: Prompting People
+
 #### Exercise 13: Parameters, Unpacking, Variables
 #### Exercise 14: Prompting And Passing
 #### Exercise 15: Reading Files

@@ -53,8 +53,8 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 #### Exercise 13: Parameters, Unpacking, Variables
 * look at this:
 > from sys import argv
-script, first, second, third = argv
-print "The script is called:", script
+<br>script, first, second, third = argv
+<br>print "The script is called:", script
 print "Your first variable is:", first
 print "Your second variable is:", second
 print "Your third variable is:", third

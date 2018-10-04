@@ -53,11 +53,11 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 #### Exercise 13: Parameters, Unpacking, Variables
 * look at this:
 > from sys import argv
-<br>script, first, second, third = argv
-<br>print "The script is called:", script
-print "Your first variable is:", first
-print "Your second variable is:", second
-print "Your third variable is:", third
+<br><br>script, first, second, third = argv
+<br><br>print "The script is called:", script
+<br>print "Your first variable is:", first
+<br>print "Your second variable is:", second
+<br>print "Your third variable is:", third
 
 you should give three argument when you want to run the .py file and python will use them.
 

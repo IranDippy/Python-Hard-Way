@@ -33,9 +33,14 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 <br>For example: `print "." * 10`
 
 #### Exercise 8: Printing, Printing
+* You can create formatter like this: `formatter = "%r %r %r %r"`
 
 #### Exercise 9: Printing, Printing, Printing
+* Use `\n` when you want to go to the next line.
+* Use `"""` when you want to print exactly what you have typed, even when you go to the next line **without** \n.
+
 #### Exercise 10: What Was That?
+
 #### Exercise 11: Asking Questions
 #### Exercise 12: Prompting People
 #### Exercise 13: Parameters, Unpacking, Variables

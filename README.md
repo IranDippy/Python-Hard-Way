@@ -19,6 +19,8 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 * Use this style for variable names: `character(s)_character(s)_character(s)`.
 <br>For example: `cars`, `space_in_a_car`.
 #### Exercise 5: More Variables And Printing
+* You can use variables and their format characters in the print.
+<br>For example: `print "%s,I get %d." % (my_name, my_age + my_height + my_weight)
 #### Exercise 6: Strings And Text
 #### Exercise 7: More Printing
 #### Exercise 8: Printing, Printing

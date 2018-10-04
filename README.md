@@ -40,8 +40,11 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 * Use `"""` when you want to print exactly what you have typed, even when you go to the next line **without** \n.
 
 #### Exercise 10: What Was That?
+* `\t` is horizontal tab(4 spaces).
+* You should use `"\\"` for printing `\`.
 
 #### Exercise 11: Asking Questions
+
 #### Exercise 12: Prompting People
 #### Exercise 13: Parameters, Unpacking, Variables
 #### Exercise 14: Prompting And Passing

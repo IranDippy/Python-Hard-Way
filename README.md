@@ -18,11 +18,18 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 #### Exercise 4: Variables And Names
 * Use this style for variable names: `character(s)_character(s)_character(s)`.
 <br>For example: `cars`, `space_in_a_car`.
+
 #### Exercise 5: More Variables And Printing
 * You can use variables and their format characters in the print.
-<br>For example: `print "%s,I get %d." % (my_name, my_age + my_height + my_weight)
+<br>For example: `print "%s,I get %d." % (my_name, my_age + my_height + my_weight)`
+
 #### Exercise 6: Strings And Text
+* We use **%s** for strings as the formatter.
+* **%r** can be used for all type of variables, this is raw.
+* You can concatenate strings with **+**.
+
 #### Exercise 7: More Printing
+
 #### Exercise 8: Printing, Printing
 #### Exercise 9: Printing, Printing, Printing
 #### Exercise 10: What Was That?

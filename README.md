@@ -29,8 +29,11 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 * You can concatenate strings with `+`.
 
 #### Exercise 7: More Printing
+* You can print strings multiple times by `*`.
+<br>For example: `print "." * 10`
 
 #### Exercise 8: Printing, Printing
+
 #### Exercise 9: Printing, Printing, Printing
 #### Exercise 10: What Was That?
 #### Exercise 11: Asking Questions

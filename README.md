@@ -59,7 +59,8 @@ This is a summary of [this book](https://learnpythonthehardway.org/book/) design
 <br>print "Your second variable is:", second
 <br>print "Your third variable is:", third
 
-you should give three argument when you want to run the .py file and python will use them.
+you should give four argument when you want to run the file and python will use them.
+<br>One of them is the .py file that always you write it but here you should give three more.
 
 #### Exercise 14: Prompting And Passing
 #### Exercise 15: Reading Files

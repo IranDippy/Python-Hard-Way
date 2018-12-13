@@ -1,6 +1,7 @@
 # Learn Python the Hard Way Book 
 
 This is a summary of [this book](https://learnpythonthehardway.org/book/) designed by us.
+>The python version is 2.X .
 
 #### Exercise 1: A Good First Program
 * Just the usage of `print` function. 
